@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd6061d3-b396-49b1-99ce-42e52675866d" name="Changes" comment="first project intellij">
-      <change afterPath="$PROJECT_DIR$/src/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
+    <list default="true" id="dd6061d3-b396-49b1-99ce-42e52675866d" name="Changes" comment="Teme curs 6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678125516165</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Teme curs 6">
+      <created>1678619797478</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678619797478</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first project intellij" />
-    <option name="LAST_COMMIT_MESSAGE" value="first project intellij" />
+    <MESSAGE value="Teme curs 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Teme curs 6" />
   </component>
 </project>

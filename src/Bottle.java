@@ -1,4 +1,7 @@
 public class Bottle {
+    public static void main(String[] args){
+
+    }
     private double capacity;
     private double availableLiquid;
     private boolean open;

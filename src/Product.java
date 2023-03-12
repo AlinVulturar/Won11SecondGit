@@ -1,4 +1,6 @@
 public class Product {
+    public static void main (String[] args){
+    }
     private String name;
     private double price;
     private int quantity;
